@@ -1,0 +1,14 @@
+.imagem-carrossel{
+    object-fit: cover; /*faz com q objeto cubra o contenainer (pai) presevervando 
+                        a proporção sem achatar imagem ou distorsser, o que sobrar
+                        será cortado.*/
+    object-position: 0 80%;     /*moviventa imagem cortada em seus eixos x,y*/                   
+    height: 400px;
+   
+    
+    
+}
+
+.fonte-titulo{
+    font-family: 'Pacifico', cursive;
+}
