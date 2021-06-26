@@ -15,4 +15,14 @@
 
 .cor-especial{
     color: darkred;
+
+}
+
+.botao-cor-card{
+    background-color: darkred;
+    color: white;
+}
+
+.borda-card{
+    border-color: darkred;
 }
