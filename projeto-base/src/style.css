@@ -1,3 +1,6 @@
+
+
+
 .imagem-carrossel{
     object-fit: cover; /*faz com q objeto cubra o contenainer (pai) presevervando 
                         a proporção sem achatar imagem ou distorsser, o que sobrar
@@ -23,6 +26,16 @@
     color: white;
 }
 
+.card-largura{
+    max-width: 18rem; /*largura max*/
+}
+
 .borda-card{
     border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;
+    /* object-position: ; */
+    height: 200px;
 }
