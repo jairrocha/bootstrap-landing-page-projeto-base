@@ -17,7 +17,7 @@
 }
 
 .cor-especial{
-    color: darkred;
+    color: darkred!important; /*Faz que a propriedade passe por cima da cascata*/
 
 }
 
